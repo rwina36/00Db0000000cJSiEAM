@@ -1,3 +1,4 @@
+<!-- Edit VF page -->
 <apex:page standardStylesheets="false">
 <script>
     function DemandPlanning__c(demandObj){

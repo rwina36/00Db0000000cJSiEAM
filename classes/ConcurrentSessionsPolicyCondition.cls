@@ -1,3 +1,4 @@
+// make some changes
 global class ConcurrentSessionsPolicyCondition implements TxnSecurity.PolicyCondition {
 public static Integer MAX_ADMIN_USER_SESSIONS = 1;
 public static Integer MAX_USER_SESSIONS = 5;

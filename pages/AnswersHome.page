@@ -1,1 +1,2 @@
+<!-- Edit VF page -->
 <apex:page action="{!URLFOR('/answers/answersHome.apexp')}"/>

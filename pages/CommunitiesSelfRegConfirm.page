@@ -1,3 +1,4 @@
+<!-- Edit VF page -->
 <apex:page id="communitiesSelfRegConfirmPage" controller="CommunitiesSelfRegConfirmController" showHeader="true" cache="false" title="{!$Label.site.registration_confirmation}" >
     <apex:define name="body">  
       <center>

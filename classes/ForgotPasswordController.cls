@@ -1,3 +1,4 @@
+// make some changes
 /**
  * An apex page controller that exposes the site forgot password functionality
  */

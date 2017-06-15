@@ -1,3 +1,4 @@
+<!-- Edit VF page -->
 <apex:page controller="SkillCheckerController" docType="html-5.0" showHeader="false" standardStylesheets="false" readOnly="true" id="page">
     
     <meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1" />

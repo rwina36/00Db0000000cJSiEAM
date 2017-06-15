@@ -1,3 +1,4 @@
+<!-- Edit VF page -->
 <apex:page >
     <style type="text/css">
         #vf-page *:not(i) {

@@ -1,3 +1,4 @@
+// make some changes
 global class AvoidExportallcontactsPolicyCondition implements TxnSecurity.PolicyCondition {
 
  public boolean evaluate(TxnSecurity.Event e) {

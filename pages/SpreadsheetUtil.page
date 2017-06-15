@@ -1,3 +1,4 @@
+<!-- Edit VF page -->
 <apex:page standardStylesheets="false">
 <script>
     var calculateSummary = function(array, nStart, nEnd, nCol) {

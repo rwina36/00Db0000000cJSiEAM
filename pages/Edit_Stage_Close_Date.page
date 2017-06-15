@@ -1,3 +1,4 @@
+<!-- Edit VF page -->
 <apex:page standardController="Opportunity" recordSetVar="opportunities" >
    <apex:form >
       <apex:pageBlock title="Edit Stage and Close Date" mode="edit">

@@ -1,3 +1,4 @@
+// make some changes
 trigger DMLInsideLoops on Account (before insert, before update) {
 	  
    //For loop to iterate through all the incoming Account records
