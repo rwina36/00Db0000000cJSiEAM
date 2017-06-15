@@ -1,3 +1,0 @@
-<aura:component extensible="true" controller="ora">
-    {!v.body}
-</aura:component>

@@ -1,5 +1,0 @@
-<aura:component >
-	
-    <c:helloHeading />
-    <c:helloMessage message="You look nice today."/>
-</aura:component>
