@@ -1,3 +1,4 @@
+// make some changes
 trigger BadSOQLInsideLoop on Account (before insert, before update) {
 
 	List<Account> accList = new List<Account>([Select Id,Name From Account]);

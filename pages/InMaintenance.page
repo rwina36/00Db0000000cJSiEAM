@@ -1,3 +1,4 @@
+<!-- Edit VF page -->
 <apex:page showHeader="false" title="{!$Label.site.in_maintenance}" cache="false">
   <apex:composition template="StdExceptionTemplate">
     <apex:define name="icon">

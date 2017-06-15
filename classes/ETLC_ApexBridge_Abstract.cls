@@ -1,3 +1,4 @@
+// make some changes
 public abstract class ETLC_ApexBridge_Abstract {
     public abstract void process(ETLC_ApexBridge_Data data);
     

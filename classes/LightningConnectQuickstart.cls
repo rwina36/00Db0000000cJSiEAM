@@ -1,3 +1,4 @@
+// make some changes
 public with sharing class LightningConnectQuickstart {
     public Boolean getCustomerIDsSet(){
         List<Account> l = [SELECT Id 

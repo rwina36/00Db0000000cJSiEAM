@@ -1,3 +1,4 @@
+// make some changes
 trigger AvoidHardcodingID on Account (after insert, after update) {
 
     for(Account a: Trigger.new){

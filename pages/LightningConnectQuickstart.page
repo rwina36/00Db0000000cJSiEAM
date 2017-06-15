@@ -1,3 +1,4 @@
+<!-- Edit VF page -->
 <apex:page controller="LightningConnectQuickstart">
     <apex:pageBlock title="Lightning Connect Quickstart" rendered="{!NOT(customerIDsSet)}">
         <apex:form >

@@ -1,3 +1,4 @@
+<!-- Edit VF page -->
 <apex:page showHeader="false" title="{!$Label.site.site_under_construction}" id="StdExceptionTemplate" cache="false">
   <apex:stylesheet value="{!URLFOR($Resource.SiteSamples, 'SiteStyles.css')}"/>
   <center>

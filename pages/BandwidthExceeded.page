@@ -1,3 +1,4 @@
+<!-- Edit VF page -->
 <apex:page showHeader="false" title="{!$Label.site.bandwidth_limit_exceeded}">
   <apex:composition template="StdExceptionTemplate">
     <apex:define name="icon">

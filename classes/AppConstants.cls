@@ -1,3 +1,4 @@
+// make some changes
 public class AppConstants {
 
     public static final String QUALIFIED_API_NAME_ATTRIBUTE = 'QualifiedApiName';

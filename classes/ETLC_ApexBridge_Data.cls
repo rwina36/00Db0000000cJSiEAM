@@ -1,3 +1,4 @@
+// make some changes
 // This is the communication bridge data between LC and Apex
 public class ETLC_ApexBridge_Data {
     public enum MessageType {Errors, Warnings, Information}

@@ -1,3 +1,4 @@
+// make some changes
 trigger BadBulkifyyourCode on Account (before insert, before update) {
 
    //This only handles the first record in the Trigger.new collection
